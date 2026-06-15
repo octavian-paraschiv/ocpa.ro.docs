@@ -1,0 +1,1 @@
+<video data-html5-video="" muted="true" poster="https://g0.ipcamlive.com/player/snapshot.php?alias=cazinoconstantadome" preload="metadata" src="blob:https://www.roxy-world.ro/8912d707-5ca5-4361-b1eb-8d7d220ed89e" width="450"></video>
